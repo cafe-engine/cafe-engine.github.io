@@ -1,3 +1,6 @@
 # Cafe Engine
 
-- Tea: render, input, window
+- Tea: render module (OpenGL loader and som simplified functions)
+- Mocha: audio module
+- Coffee: Lisp based language
+- Latte: Filesystem
